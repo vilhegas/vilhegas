@@ -27,12 +27,14 @@
 </div>
 
 ---
-<div align="center" >
-  <p align="center">
-Bachelor’s degree in Computer Science. Experience in web development projects with a focus on front-end, including the creation of responsive interfaces, WordPress customization, API integration, report automation, and efficient data presentation. I enjoy learning by working on real-world projects and continuously improving my technical skills. In addition, I have a technical background in Mechatronics and hands-on experience, where I developed logical reasoning, analytical thinking, and problem-solving skills that I now apply to software development.
-</p>
-
-<div>
+<table align="center" border="0">
+  <tr>
+    <td width="800" align="center">
+      Bachelor’s degree in Computer Science. Experience in web development projects with a focus on front-end, including the creation of responsive interfaces, WordPress customization, API integration, report automation, and efficient data presentation. I enjoy learning by working on real-world projects and continuously improving my technical skills. In addition, I have a technical background in Mechatronics and hands-on experience, where I developed logical reasoning, analytical thinking, and problem-solving skills that I now apply to software development.
+    </td>
+  </tr>
+</table>
+ <div align="center">
   
 [![Gmail](https://img.shields.io/badge/Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiquevilhegas16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiquevilhegas)
@@ -46,10 +48,10 @@ Bachelor’s degree in Computer Science. Experience in web development projects 
 </div>
 
 ---
-<div>
-  <a href="https://github.com/vilhegas">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vilhegas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilhegas&layout=compact&langs_count=16&theme=dark"/>
+<div aling="center">
+  <a href="https://github.com/vilhegas" aling="center">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=vilhegas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilhegas&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
