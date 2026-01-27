@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner-github.png" width="100%" />
+</div>
+
 ## Hi! I'm Caique Vilhegas
 
 - Technologies and skills: HTML, CSS, JavaScript, MySQL/MariaDB, WordPress, front-end architecture, and good practices focused on code quality and organization.
