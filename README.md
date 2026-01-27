@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner-github.png" width="100%" />
+  <img width="1000" height="550" alt="Image" src="https://github.com/user-attachments/assets/a76ca8bc-1d59-49da-b21a-05605a636b2e" />
 </div>
 
 ## Hi! I'm Caique Vilhegas
