@@ -47,10 +47,10 @@
   <a href="https://github.com/vilhegas">
     <img
       height="120em"
-      src="https://github-readme-stats.vercel.app/api?username=vilhegas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=vilhegas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true"
     />
     <img 
-      height="120em" 
+      height="120em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilhegas&layout=compact&langs_count=16&theme=dark&v=1"
       />
   </a>
