@@ -49,6 +49,9 @@
 
 <img width="100%" height="2" alt="Image" src="https://github.com/user-attachments/assets/1179dd4d-be68-4aff-9b4f-e21f58826920" />
 
+<br>
+<br>
+
 <div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vilhegas&theme=great_gatsby)
