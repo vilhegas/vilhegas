@@ -33,9 +33,9 @@
 </div>
 
 <p>
-  Bachelor’s degree in Computer Science. Experience in web development projects with a focus on front-end, including the creation of responsive interfaces, WordPress customization, API integration, report automation, and efficient data presentation.
-  <br/><br/>
-  I enjoy learning by working on real-world projects and continuously improving my technical skills. I also have a technical background in Mechatronics, which helped me develop strong logical reasoning, analytical thinking, and problem-solving abilities applied to software development.
+My technical journey began in Mechatronics, where I developed a solid foundation in systems diagnostics, electronic circuit analysis, and structured problem-solving, skills that I now transfer to software development with precision and analytical rigor.
+
+I work in Full Stack development with a focus on front-end, using JavaScript, TypeScript, React, and other technologies. I have practical experience integrating REST APIs (Google Analytics, Meta Business, Adveronix), automating data pipelines with Python and JavaScript, and applying technical SEO and UX practices to maximize performance and engagement. I also work with WordPress, SQL/MySQL/MariaDB databases, and version control tools such as Git and GitHub.
 </p>
 
 <div align="center">
