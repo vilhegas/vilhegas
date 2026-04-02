@@ -13,15 +13,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Londrina+Solid&pause=1000&color=E0B032&width=100%&lines=Technologies" />
 </div>
   <div align="center">
-    <img width="50" height="50" alt="html-5" src="https://img.icons8.com/color/96/html-5--v1.png"/>
+    <img width="50" height="50" alt="html-5" src="https://img.icons8.com/?size=100&id=zRvbzAjx4VWY&format=png&color=000000"/>
     <img width="50" height="50" alt="css3" src="https://img.icons8.com/color/96/css3.png"/>
-    <img width="50" height="50" alt="javascript" src="https://img.icons8.com/color/96/javascript--v1.png"/>
+    <img width="50" height="50" alt="javascript" src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000"/>
     <img width="50" height="50" alt="typescript" src="https://img.icons8.com/color/96/typescript.png"/>
     <img width="50" height="50" alt="react-native" src="https://img.icons8.com/color/96/react-native.png"/>
-    <img width="50" height="50" src="https://img.icons8.com/color/96/python--v1.png" alt="python--v1"/>
+    <img width="50" height="50" alt="python" src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000"/>
     <img width="60" height="60" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo"/>
     <img width="50" height="50" alt="maria-db" src="https://img.icons8.com/fluency/96/maria-db.png"/>
-    <img width="50" height="50" alt="wordpress" src="https://img.icons8.com/color/96/wordpress.png"/>
+    <img width="50" height="50" alt="wordpress" src="https://img.icons8.com/?size=100&id=BdXyMvhDoHm0&format=png&color=000000"/>
+    <img width="50" height="50" alt="PHP" src="https://img.icons8.com/?size=100&id=JAOzEPu9w5iE&format=png&color=000000"/>
   </div>
 
 <br>
