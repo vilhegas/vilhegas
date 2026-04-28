@@ -12,7 +12,7 @@
 <h2 align="center">Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,mysql,wordpress,php,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,mysql,wordpress,php,git,github,vscode,nodejs&theme=dark" />
 </p>
 
 <br>
