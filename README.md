@@ -22,7 +22,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Full Stack Developer with a front-end focus, building modern, responsive, and scalable web applications.
+  Full Stack Developer , building modern, responsive, and scalable web applications.
 </p>
 
 <p align="center">
