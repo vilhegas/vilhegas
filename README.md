@@ -63,7 +63,11 @@ Tenho desenvolvido projetos envolvendo **análise exploratória, classificação
 Projetos selecionados para representar meu portfólio.
 
 <!-- FEATURED:START -->
-*Selecione até três projetos no arquivo `featured_projects.json`.*
+
+[![Payflow-Credit-Risk](assets/projects/featured-Payflow-Credit-Risk.svg)](https://github.com/vilhegas/Payflow-Credit-Risk)
+
+[![credit-risk-intelligence](assets/projects/featured-credit-risk-intelligence.svg)](https://github.com/vilhegas/credit-risk-intelligence)
+
 <!-- FEATURED:END -->
 
 ### 📂 Projetos mais recentes
@@ -72,15 +76,11 @@ Os três repositórios públicos mais novos, excluindo os projetos em destaque.
 
 <!-- PROJECTS:START -->
 
-[![Payflow-Credit-Risk](assets/recent-projects/Payflow-Credit-Risk.svg)](https://github.com/vilhegas/Payflow-Credit-Risk)
+[![Teste-AB-Analise-Conversao](assets/projects/recent-Teste-AB-Analise-Conversao.svg)](https://github.com/vilhegas/Teste-AB-Analise-Conversao)
 
-[![Teste-AB-Analise-Conversao](assets/recent-projects/Teste-AB-Analise-Conversao.svg)](https://github.com/vilhegas/Teste-AB-Analise-Conversao)
+[![Analise-Estatistica-Testes-Hipoteses](assets/projects/recent-Analise-Estatistica-Testes-Hipoteses.svg)](https://github.com/vilhegas/Analise-Estatistica-Testes-Hipoteses)
 
-[![Analise-Estatistica-Testes-Hipoteses](assets/recent-projects/Analise-Estatistica-Testes-Hipoteses.svg)](https://github.com/vilhegas/Analise-Estatistica-Testes-Hipoteses)
-
-[![Regressao_Linear_Multipla](assets/recent-projects/Regressao_Linear_Multipla.svg)](https://github.com/vilhegas/Regressao_Linear_Multipla)
-
-[![Power-BI-Gatito-Petshop](assets/recent-projects/Power-BI-Gatito-Petshop.svg)](https://github.com/vilhegas/Power-BI-Gatito-Petshop)
+[![Regressao_Linear_Multipla](assets/projects/recent-Regressao_Linear_Multipla.svg)](https://github.com/vilhegas/Regressao_Linear_Multipla)
 
 <!-- PROJECTS:END -->
 

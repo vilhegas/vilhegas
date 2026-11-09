@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="105"
+ viewBox="0 0 900 105" role="img" aria-label="Teste-AB-Analise-Conversao">
+ <rect x="1" y="1" width="898" height="103" rx="12" fill="#161b22" stroke="#353d46" stroke-width="2"/>
+ <rect x="16" y="23" width="60" height="60" rx="11" fill="#262e37"/>
+ <text x="46" y="60" text-anchor="middle" fill="#8bb49b"
+   font-family="Arial,DejaVu Sans,sans-serif" font-size="21" font-weight="bold">Σ</text>
+ <text x="94" y="38" fill="#93bfdf"
+   font-family="Arial,DejaVu Sans,sans-serif" font-size="19" font-weight="bold">Teste-AB-Analise-Conversao</text>
+ <text x="94" y="63" fill="#d0d7de"
+   font-family="Arial,DejaVu Sans,sans-serif" font-size="14">Simulação e análise de experimentos A/B com Python, utilizando testes de</text>
+ <text x="94" y="83" fill="#d0d7de"
+   font-family="Arial,DejaVu Sans,sans-serif" font-size="14">hipóteses, cálculo amostral, teste Z para…</text>
+ <rect x="682" y="14" width="175" height="27" rx="14" fill="#232a33" stroke="#8bb49b"/>
+ <text x="769" y="32" text-anchor="middle" fill="#e6edf3"
+   font-family="Arial,DejaVu Sans,sans-serif" font-size="12">Estatística</text>
+ <path d="M863 77 L879 61 M869 61 H879 V71" stroke="#a1abb9" stroke-width="2"
+   stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
