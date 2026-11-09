@@ -13,7 +13,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  atualizar:
+  update:
     runs-on: ubuntu-latest
     steps:
       - name: Obter arquivos do perfil
