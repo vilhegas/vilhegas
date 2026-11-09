@@ -1,17 +1,12 @@
 <div align="center">
 
 # Caique Vilhegas
-
-<br>
 </div>
-
----
 
 ### ◇ Sobre mim
 
 > Sou formado em **Ciência da Computação** e atualmente curso a pós-graduação em **AI Scientist na FIAP**, aprofundando meus conhecimentos em **Data Science, Machine Learning e Inteligência Artificial**. Tenho também formação técnica em **Mecatrônica** pela Etec Getúlio Vargas e sou certificado **CPA pela ANBIMA**.
 >
-> Direciono minha atuação para a **Análise de Dados**, com interesse especial no **mercado financeiro, em bancos e em investimentos**.
 
 <div align="center">
 
