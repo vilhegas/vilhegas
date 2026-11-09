@@ -2,25 +2,24 @@
 
 # Caique Vilhegas
 
-**Ciência de Dados · Machine Learning · Inteligência Artificial**
-
-<sub>Python · SQL · Estatística · Modelagem Preditiva · Desenvolvimento de Software</sub>
-
 <br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-344457?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiquevilhegas)
-[![Email](https://img.shields.io/badge/E--mail-344457?style=flat-square&logo=gmail&logoColor=white)](mailto:caiquevilhegas16@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-344457?style=flat-square&logo=vercel&logoColor=white)](https://site-portfolio-sage.vercel.app/)
-
 </div>
 
 ---
 
 ### ◇ Sobre mim
 
-> Sou formado em **Ciência da Computação** e pós-graduando em **Ciência de Dados com IA pela FIAP**, com conclusão prevista para julho de 2027.
+> Sou formado em **Ciência da Computação** e atualmente curso a pós-graduação em **AI Scientist na FIAP**, aprofundando meus conhecimentos em **Data Science, Machine Learning e Inteligência Artificial**. Tenho também formação técnica em **Mecatrônica** pela Etec Getúlio Vargas e sou certificado **CPA pela ANBIMA**.
 >
-> Minha trajetória combina desenvolvimento de software, automação de processos e análise de dados. Desenvolvo projetos de **modelagem preditiva e estatística aplicada**, envolvendo análise exploratória, validação cruzada, avaliação de modelos e prevenção de *data leakage*, com foco em reprodutibilidade e aplicação prática.
+> Direciono minha atuação para a **Análise de Dados**, com interesse especial no **mercado financeiro, em bancos e em investimentos**.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-344457?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiquevilhegas)
+[![Email](https://img.shields.io/badge/E--mail-344457?style=flat-square&logo=gmail&logoColor=white)](mailto:caiquevilhegas16@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-344457?style=flat-square&logo=vercel&logoColor=white)](https://site-portfolio-sage.vercel.app/)
+
+</div>
 
 ### ◈ Tecnologias e ferramentas
 
