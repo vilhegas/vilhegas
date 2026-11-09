@@ -61,10 +61,13 @@ Tenho desenvolvido projetos envolvendo **análise exploratória, classificação
 ### Projetos e portfólio
 
 
+
 ### 📂 Projetos mais recentes
 
 <!-- PROJECTS:START -->
 <!-- PROJECTS:END -->
+
+[Ver todos os repositórios](https://github.com/vilhegas?tab=repositories)
 
 <div align="center">
 
