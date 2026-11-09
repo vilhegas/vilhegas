@@ -24,7 +24,7 @@
 
 ### ◈ Tecnologias e ferramentas
 
-![Tecnologias: Dados — Python, Pandas, NumPy, SciPy, Scikit-learn, Jupyter, SQL, MySQL, PostgreSQL, Power BI, Excel; Desenvolvimento — HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Node.js, PHP, WordPress, FastAPI; Outras ferramentas — Git, GitHub, Docker, VS Code](assets/tecnologias.svg)
+![Tecnologias](assets/tecnologias.svg)
 
 ### ☆ Projetos em destaque
 
