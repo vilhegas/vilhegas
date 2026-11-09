@@ -61,11 +61,7 @@ Tenho desenvolvido projetos envolvendo **análise exploratória, classificação
 ### 📂 Projetos mais recentes
 
 <!-- PROJECTS:START -->
-- **[Payflow-Credit-Risk](https://github.com/vilhegas/Payflow-Credit-Risk)** — Projeto de Ciência de Dados para previsão de inadimplência em 90 dias, seguindo CRISP-DM
-- **[Teste-AB-Analise-Conversao](https://github.com/vilhegas/Teste-AB-Analise-Conversao)** — Simulação e análise de experimentos A/B com Python, utilizando testes de hipóteses, cálculo amostral, teste Z para proporções e avaliação de taxas de conversão para apoiar decisões de negócio.
-- **[Analise-Estatistica-Testes-Hipoteses](https://github.com/vilhegas/Analise-Estatistica-Testes-Hipoteses)** — Aplicação de testes de hipóteses com Python e SciPy para analisar campanhas de marketing, NPS, churn e scores de crédito, utilizando testes t, ANOVA, Qui-Quadrado, Mann-Whitney, Wilcoxon, Kruskal-Wallis e Kolmogorov-Smirnov.
-- **[Regressao_Linear_Multipla](https://github.com/vilhegas/Regressao_Linear_Multipla)** — Análise de 20.640 registros imobiliários da Califórnia com Python, tratamento de dados, pipelines de pré-processamento e comparação entre Regressão Linear Múltipla e Árvore de Decisão utilizando Scikit-learn.
-- **[Power-BI-Gatito-Petshop](https://github.com/vilhegas/Power-BI-Gatito-Petshop)** — Dashboard de Business Intelligence para análise de dados comerciais de um petshop utilizando Power BI.
+*Os projetos aparecerão aqui após a primeira execução da automação no GitHub Actions.*
 <!-- PROJECTS:END -->
 
 <div align="center">

@@ -2,7 +2,7 @@ name: Atualizar projetos recentes
 
 on:
   schedule:
-    - cron: "17 9 * * *"
+    - cron: '17 9 * * *'
   workflow_dispatch:
 
 permissions:
@@ -13,9 +13,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update:
+  atualizar:
     runs-on: ubuntu-latest
-
     steps:
       - name: Obter arquivos do perfil
         uses: actions/checkout@v4
@@ -23,21 +22,19 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: '3.12'
 
-      - name: Atualizar projetos no README
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Gerar cards SVG e atualizar README
         run: python scripts/update_projects.py
 
-      - name: Publicar README se houver alterações
+      - name: Publicar cards e README
         run: |
-          if ! git diff --quiet -- README.md; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "docs: atualizar projetos recentes"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/recent-projects/
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: atualizar cards dos projetos recentes"
             git push
           else
-            echo "Nenhuma alteração necessária."
+            echo "Nenhuma alteracao necessaria."
           fi
