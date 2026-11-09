@@ -58,7 +58,17 @@ Tenho desenvolvido projetos envolvendo **análise exploratória, classificação
 ![Docker](https://img.shields.io/badge/Docker-64748B?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-64748B?style=flat-square&logoColor=white)
 
+### ⭐ Projetos em destaque
+
+Projetos selecionados para representar meu portfólio.
+
+<!-- FEATURED:START -->
+*Selecione até três projetos no arquivo `featured_projects.json`.*
+<!-- FEATURED:END -->
+
 ### 📂 Projetos mais recentes
+
+Os três repositórios públicos mais novos, excluindo os projetos em destaque.
 
 <!-- PROJECTS:START -->
 
