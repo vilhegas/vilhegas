@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+      width="900" height="126" viewBox="0 0 900 126"
+      role="img"
+      aria-label="Payflow-Credit-Risk: Projeto de Ciência de Dados para previsão de inadimplência em 90 dias, seguindo CRISP-DM">
+
+      <rect x="1" y="1" width="898" height="124"
+            rx="12" fill="#161b22"
+            stroke="#30363d" stroke-width="2"/>
+
+      <rect x="20" y="30" width="68" height="68"
+            rx="12" fill="#21262d"/>
+
+      <text x="54" y="72" text-anchor="middle"
+            font-family="Arial, sans-serif"
+            font-size="22" font-weight="bold"
+            fill="#a371f7">ML</text>
+
+      <text x="108" y="42"
+            font-family="Arial, sans-serif"
+            font-size="20" font-weight="bold"
+            fill="#58a6ff">Payflow-Credit-Risk</text>
+
+      <rect x="681" y="17"
+            width="177" height="30" rx="15"
+            fill="#21262d" stroke="#a371f7"/>
+
+      <text x="769" y="37" text-anchor="middle"
+            font-family="Arial, sans-serif"
+            font-size="13"
+            fill="#f0f6fc">Machine Learning</text>
+
+      <text x="108" y="77"
+            font-family="Arial, sans-serif"
+            font-size="14"
+            fill="#c9d1d9">Projeto de Ciência de Dados para previsão de inadimplência em 90 dias, seguindo</text>
+
+      <text x="108" y="99"
+            font-family="Arial, sans-serif"
+            font-size="14"
+            fill="#c9d1d9">CRISP-DM</text>
+
+      <path d="M860 93 L876 77 M866 77 H876 V87"
+            stroke="#8b949e" stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round" fill="none"/>
+    </svg>
+    

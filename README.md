@@ -61,7 +61,17 @@ Tenho desenvolvido projetos envolvendo **análise exploratória, classificação
 ### 📂 Projetos mais recentes
 
 <!-- PROJECTS:START -->
-*Os projetos aparecerão aqui após a primeira execução da automação no GitHub Actions.*
+
+[![Payflow-Credit-Risk](assets/recent-projects/Payflow-Credit-Risk.svg)](https://github.com/vilhegas/Payflow-Credit-Risk)
+
+[![Teste-AB-Analise-Conversao](assets/recent-projects/Teste-AB-Analise-Conversao.svg)](https://github.com/vilhegas/Teste-AB-Analise-Conversao)
+
+[![Analise-Estatistica-Testes-Hipoteses](assets/recent-projects/Analise-Estatistica-Testes-Hipoteses.svg)](https://github.com/vilhegas/Analise-Estatistica-Testes-Hipoteses)
+
+[![Regressao_Linear_Multipla](assets/recent-projects/Regressao_Linear_Multipla.svg)](https://github.com/vilhegas/Regressao_Linear_Multipla)
+
+[![Power-BI-Gatito-Petshop](assets/recent-projects/Power-BI-Gatito-Petshop.svg)](https://github.com/vilhegas/Power-BI-Gatito-Petshop)
+
 <!-- PROJECTS:END -->
 
 <div align="center">
